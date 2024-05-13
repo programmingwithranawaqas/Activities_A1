@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activities_A1</string>
+    <string name="login">LOGIN</string>
+    <string name="new_user_create_account">New User? Create Account</string>
+    <string name="cancel">CANCEL</string>
+    <string name="enter_email">Enter email...</string>
+    <string name="enter_password">Enter password...</string>
+</resources>
